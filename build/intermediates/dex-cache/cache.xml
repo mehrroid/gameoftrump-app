@@ -3,6 +3,78 @@
 
     <item
         is-multidex="false"
+        jar="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\exploded-aar\com.intuit.sdp\sdp-android\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="11262f887015dc774ff36eb66698308df0a376d1">
+        <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\com.intuit.sdp-sdp-android-1.0.4_4fae43e6039732913fa920ac5a31e234b4ef9b97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_e84221a4b119fb09ebe079a7bfe24d0a0cc0d4ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\exploded-aar\com.github.Yalantis\GuillotineMenu-Android\1.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a1e3403c2cf477dc1b99ca5f85ca1f92655ecba7">
+        <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\com.github.Yalantis-GuillotineMenu-Android-1.2_8ef47d2a55cb7103aeb1a136512bac9ce8f0288d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.0.1_393c90ff7166bbf31df5f830bf3e983b28f320e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_694631ce527c37654ece669429c89313795c481c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_4d1fdbbdc506fe21655163d4b45aab687ba45c7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android.SDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_2954d4b60d4e0d6f3e1feda9bc675c088532df52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_bde69937270609950b69cb003df150354f3351d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -18,15 +90,6 @@
         revision="23.0.0"
         sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
         <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_de110dec9cd9e8ff4dc421942eac665135d8bb91.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\exploded-aar\com.intuit.sdp\sdp-android\1.0.4\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.0"
-        sha1="11262f887015dc774ff36eb66698308df0a376d1">
-        <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\com.intuit.sdp-sdp-android-1.0.4_4fae43e6039732913fa920ac5a31e234b4ef9b97.jar" />
     </item>
     <item
         is-multidex="false"
@@ -93,42 +156,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.0"
-        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
-        <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_e84221a4b119fb09ebe079a7bfe24d0a0cc0d4ae.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\exploded-aar\com.github.Yalantis\GuillotineMenu-Android\1.2\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.0"
-        sha1="a1e3403c2cf477dc1b99ca5f85ca1f92655ecba7">
-        <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\com.github.Yalantis-GuillotineMenu-Android-1.2_8ef47d2a55cb7103aeb1a136512bac9ce8f0288d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.0"
-        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
-        <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.0.1_393c90ff7166bbf31df5f830bf3e983b28f320e7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.0"
-        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_694631ce527c37654ece669429c89313795c481c.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -171,33 +198,6 @@
         revision="23.0.0"
         sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
         <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_44ab9140e02216111305195eff14a680cf70853c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.0"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_4d1fdbbdc506fe21655163d4b45aab687ba45c7c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Android.SDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.0"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_2954d4b60d4e0d6f3e1feda9bc675c088532df52.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.0"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="C:\Users\nixan\Documents\GitHub\gameoftrump-app\gameoftrump-app\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_bde69937270609950b69cb003df150354f3351d9.jar" />
     </item>
 
 </items>
